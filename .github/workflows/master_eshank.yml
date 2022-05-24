@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'eshank'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_30CF4ACFD19A408082AC4D95FAEEAAF6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_647D553673374B21BA88C2B6D2DD024B }}
